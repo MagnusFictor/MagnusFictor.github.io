@@ -1,3 +1,3 @@
-name: My Site
+name: My Site)
 theme: minima
 # MagnusFictor.github.io
